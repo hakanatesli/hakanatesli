@@ -29,6 +29,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+<details>
+    <summary>:zap: Github Stats</summary>
+
+    <img align="left" alt="haknaatesli's Github Stats" src="https://https://github-readme-stats-hakanatesli.vercel.app/api/username=hakanatesli&show_icons=true&hide_border=true" />
+
+</details>
+
 [instagram]: https://www.instagram.com/hakanaatesli/
 [linkedin]: https://www.linkedin.com/in/hakanatesli/
 [medium]: https://medium.com/@hakanateslii
