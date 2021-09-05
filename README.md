@@ -21,7 +21,7 @@
 
 # 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Customer Segmentation for Financial Services](https://hakanateslii.medium.com/customer-segmentation-for-financial-services-58fbfc417669?source=rss-bc6cb6ba9a57------2)
+- [Customer Segmentation for Financial Services](https://medium.com/analytics-vidhya/customer-segmentation-for-financial-services-58fbfc417669?source=rss-bc6cb6ba9a57------2)
 - [What does a Heart Attack depend on?](https://hakanateslii.medium.com/what-does-a-heart-attack-depend-on-8f6192503174?source=rss-bc6cb6ba9a57------2)
 - [RBM Öneri Sistemleri(Bölüm 1)](https://hakanateslii.medium.com/rbm-%C3%B6neri-sistemleri-b%C3%B6l%C3%BCm-1-13073539afdb?source=rss-bc6cb6ba9a57------2)
 - [Kronecker Product(Kronecker Çarpımı)](https://hakanateslii.medium.com/kronecker-product-kronecker-%C3%A7arp%C4%B1m%C4%B1-d71dec9fed4b?source=rss-bc6cb6ba9a57------2)
