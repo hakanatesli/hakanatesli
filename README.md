@@ -1,7 +1,7 @@
 ### Hi there, I'm Hakan 👋
 
 
-## I'm a Data Analyst at Ford Otosan!!
+## I'm a Data Scientist at Dentsu Turkey!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute to Open Source projects
