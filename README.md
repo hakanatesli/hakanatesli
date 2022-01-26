@@ -1,10 +1,10 @@
 ### Hi there, I'm Hakan 👋
 
 
-## I'm a Data Scientist at Dentsu Turkey!!
+## I'm a Data Scientist at Metric Yazılım Danışmanlık!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love sailing. Swimming and Tennis are my favorite sports.
 
 ### Connect with me:
