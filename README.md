@@ -1,7 +1,7 @@
 ### Hi there, I'm Hakan 👋
 
 
-## I'm a Data Scientist at Metric Yazılım Danışmanlık!!
+## I'm a Data Scientist at Hepsiburada!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute to Open Source projects
